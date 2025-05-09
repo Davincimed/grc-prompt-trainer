@@ -1,3 +1,3 @@
 # GRC Prompt Trainer
 
-Web app built with Next.js to simulate GRC scenarios using OpenAI API.
+Next.js app powered by OpenAI for training ISSOs and GRC professionals.
